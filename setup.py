@@ -19,7 +19,7 @@ setup(
         "RandomWords==0.3.0",
         "requests==2.24.0",
         "typing-extensions==3.7.4.2",
-        "urllib3==1.25.10",
+        "urllib3==1.26.5",
         "wincertstore==0.2",
         "youtube-search==1.1.0",
     ],
