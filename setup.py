@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='Distutils',
+    name='youtubesampler',
     version='1.0',
     description='Youtube Sampler',
     author='Andrew Jensen',

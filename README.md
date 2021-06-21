@@ -5,7 +5,7 @@ Random audio can be useful for musical inspiration. :)
 
 # Installation
 
-`python -m pip install -e "git+http://github.com/acjensen/youtube-sampler.git"`
+`python -m pip install -e "git+http://github.com/acjensen/youtube-sampler.git#egg=youtubesampler"`
 
 # Example
 
