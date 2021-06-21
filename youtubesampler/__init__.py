@@ -1,1 +1,1 @@
-from . import youtubesampler
+from youtubesampler import *
